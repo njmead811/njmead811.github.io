@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Financial Anomaly Detection for the Canadian Market"
+excerpt: "Detecting Financial Crises Using GNN and TDA<br/><img src='/images/.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Used graph anomaly detection techniques applied to stock prices to successfully predict financial crises, such as the 2008-2009 Financial Crisis, the Greek Debt Crisis and COVID19. Techniques included graph neural networks, PCA-based methods and topological data analysis and were implemented in python (pytorch geometric, pyflagser, scikit-learn, networkx, etc.). Topological data analysis and graph neural networks were demonstrated to have a superior performance. 
+
+The code for the project can be found [here](https://github.com/njmead811/Financial-Anomaly-Detection-for-the-Canadian-Market/). An arxiv version of the paper can be found [here](https://arxiv.org/abs/2604.02549) and is currently submitted to a journal. 
