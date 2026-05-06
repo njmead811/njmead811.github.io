@@ -1,6 +1,6 @@
 ---
 title: "Composition for Stock and Flow Models"
-excerpt: "Category Theoretic Modelling for Epidemiology<br/><img src='/images/DECOMPOSABLESTOCKFLOW.jpeg' width = '600' height = '600'>"
+excerpt: "Category Theoretic Modelling for Epidemiology<br/><img src='/images/DECOMPOSABLESTOCKFLOW.jpeg' width = '400' height = '400'>"
 collection: portfolio
 ---
 
