@@ -47,9 +47,4 @@ My final postdoc was funded by the ERC grant [Definable Algebraic Topology](http
 
 ## Conference Papers
 
-* X. Li, N. Meadows and N. Osgood *Hierarchical and Upstream-Downstream Composition of Stock and Flow Models* [Poster Presentation] ACT 2023, (Link)[https://arxiv.org/pdf/2305.02136].
-
-
-
-
-* Author, B. (2023). "Another Paper." *Conference Name*. [Link](url)
+* X. Li, N. Meadows and N. Osgood *Hierarchical and Upstream-Downstream Composition of Stock and Flow Models* [Poster Presentation] ACT 2023, [Link](https://arxiv.org/pdf/2305.02136)
