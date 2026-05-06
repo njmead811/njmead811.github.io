@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Articles
 
-# Articles on the Foundations of Higher Category Theory 
+### Articles on the Foundations of Higher Category Theory 
 
 These articles are primarily concerned with generalizing results in classical category theory to the setting of infinity categories. The first of these articles constructs classifying infinity topoi via weighted limits, following a classical construction from Johnstone's sketches of an elephant. The second establishes a version of [Bourke and Garner's work](https://www.sciencedirect.com/science/article/pii/S0001870819302580) on monads with arities in the infinity-categorical setting.  
 
