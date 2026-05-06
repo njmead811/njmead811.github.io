@@ -1,6 +1,6 @@
 ---
 title: "Financial Anomaly Detection for the Canadian Market"
-excerpt: "Detecting Financial Crises Using GNN and TDA<br/><img src='/images/GlocalKD.png'>"
+excerpt: "Detecting Financial Crises Using GNN and TDA<br/><img src='/images/GlocalKD.png' width = '400' height = '400'>"
 collection: portfolio
 ---
 
