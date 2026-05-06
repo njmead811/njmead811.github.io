@@ -15,16 +15,25 @@ These papers apply techniques, primarily the directed flag complex from topologi
 
 These articles are primarily concerned with generalizing results in classical category theory to the setting of infinity categories. The first of these articles constructs classifying infinity topoi via weighted limits, following a classical construction from Johnstone's "Sketches of an Elephant". The second establishes a version of [Bourke and Garner's work](https://www.sciencedirect.com/science/article/pii/S0001870819302580) on monads with arities in the infinity-categorical setting.  
 
-* Di Liberti, I. and Meadows, N. "Classifying Infinity Topoi via Weighted Limits." *Arxiv preprint* [Link](https://arxiv.org/pdf/2512.15613)
+* Di Liberti, I. and Meadows, N. "Classifying ∞-Topoi via Weighted Limits." *Arxiv preprint* [Link](https://arxiv.org/pdf/2512.15613)
 * Henry, S. and Meadows, N. "Higher Theories and Monads." *Higher Struct* 9(1) (2025), 227-268. [Link](https://higher-structures.math.cas.cz/api/files/issues/Vol9Iss1/HenryMeadows)
 
 ### Applications of Higher Category Theory to Algebraic Topology 
 
+These articles applied higher category theory to certain aspects of algebraic topology 
 
+* Blanc, D. and Meadows, N. *Andre Quillen Cohomology and the k-invariants of simplicial categories*. Hom. Homol. Appl 27(1) (2025), 147-177.
+* Blanc, D. and Meadows, N. *Spectral Sequences in (∞, 1) − categories*. J. Pure Appl.Alg. 226(7) (2022), 417-452.
 
 ### Simplicial Presheaves and Stacks 
 
 During my thesis, I developed a series of model structures on simplicial presheaves in which the weak equivalencees are 'stalkwise' equivalences in various model structures for infinity categories. I also applied these results to give an exposition of some results from Simpson's "Descent pour les n-Champs." 
+
+* Meadows, N. *Descent Theory and Mapping Spaces*. J. Homotopy Relat. Struct. 14(3-4) (2020), 417-452.
+* Meadows, N. *Local Complete Segal Spaces*, Appl. Cat. Struct 26(6) (2018), 1265-1281.
+* Meadows, N. *Local Higher Category Theory*, PhD Thesis, 2018. 
+* Meadows, N. *The local Joyal model structure*, Theory Appl. Cat. 31 (2016), no. 24, 690-711.
+
 
 ### Miscellaneous
 
