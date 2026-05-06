@@ -1,6 +1,6 @@
 ---
-title: "Hierarchical and Upstream-Downstream Composition for Stock and Flow Models"
-excerpt: "Category Theoretic Modelling for Epidemiology<br/><img src='/images/DECOMPOSABLESTOCKFLOW.jpeg' width = '400' height = '400'>"
+title: "Composition for Stock and Flow Models"
+excerpt: "Category Theoretic Modelling for Epidemiology<br/><img src='/images/DECOMPOSABLESTOCKFLOW.jpeg' width = '600' height = '600'>"
 collection: portfolio
 ---
 
