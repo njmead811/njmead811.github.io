@@ -1,6 +1,6 @@
 ---
 title: "Persistent Reachability Homology"
-excerpt: "Novel TDA Technique for Neuroscientific Data<br/><img src='/images/SIMPLICES.jpeg'>"
+excerpt: "Novel TDA Technique for Neuroscientific Data<br/><img src='/images/SIMPLICES.jpeg' width = '400' height = '400'>"
 collection: portfolio
 ---
 
