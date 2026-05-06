@@ -11,15 +11,15 @@ author_profile: true
 
 These papers apply techniques, primarily the directed flag complex from topological data analysis (TDA) and graph neural networks (GNN), to machine learning problems for graphs. The first of these uses graph anomaly detection techniques (based on TDA and GNN) to predict financial crises in Canada. The second develops a binary graph classification pipeline based on persistent reachability, a novel technique in TDA, and applies it to neuroscientific data. 
 
-* Caputi, L. and Meadows, N. "Financial Anomaly Detection for the Canadian Market." *Arxiv preprint* [Link](https://arxiv.org/abs/2604.02549))
-* Caputi, L. and Meadows, N. and Riihimaki, H. "Persistent Reachabiliy in Machine Learning Applications" *Arxiv Preprint* [Link](https://arxiv.org/abs/2511.04825)
+* Caputi, L. and Meadows, N. *Financial Anomaly Detection for the Canadian Market* Arxiv preprint [Link](https://arxiv.org/abs/2604.02549))
+* Caputi, L. and Meadows, N. and Riihimaki, H. *Persistent Reachabiliy in Machine Learning Applications* Arxiv Preprint [Link](https://arxiv.org/abs/2511.04825)
 
 ### Foundations of Higher Category Theory 
 
 These articles are primarily concerned with generalizing results in classical category theory to the setting of infinity categories. The more recent of these articles constructs classifying infinity topoi via weighted limits, following a classical construction from Johnstone's "Sketches of an Elephant". The second establishes a version of [Bourke and Garner's work](https://www.sciencedirect.com/science/article/pii/S0001870819302580) on monads with arities in the infinity-categorical setting.  
 
-* Di Liberti, I. and Meadows, N. "Classifying ∞-Topoi via Weighted Limits." *Arxiv preprint* [Link](https://arxiv.org/pdf/2512.15613)
-* Henry, S. and Meadows, N. "Higher Theories and Monads." *Higher Struct* 9(1) (2025), 227-268. [Link](https://higher-structures.math.cas.cz/api/files/issues/Vol9Iss1/HenryMeadows)
+* Di Liberti, I. and Meadows, N. *Classifying ∞-Topoi via Weighted Limits*. Arxiv preprint [Link](https://arxiv.org/pdf/2512.15613)
+* Henry, S. and Meadows, N. *Higher Theories and Monads.* Higher Struct 9(1) (2025), 227-268. [Link](https://higher-structures.math.cas.cz/api/files/issues/Vol9Iss1/HenryMeadows)
 
 ### Applications of Higher Category Theory to Algebraic Topology 
 
