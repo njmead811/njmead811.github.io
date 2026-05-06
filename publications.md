@@ -40,7 +40,7 @@ During my thesis, I developed a series of model structures on simplicial preshea
 
 ### Miscellaneous
 
-My final postdoc was funded by the ERC grant [Definable Algebraic Topology](https://cordis.europa.eu/project/id/101077154), a subject developed in the [paper](https://www.cambridge.org/core/journals/forum-of-mathematics-pi/article/definable-content-of-homological-invariants-ii-cech-cohomology-and-homotopy-classification/08866E8F4A968868D20EC207394AD091). My contribution was to show how a classical subject in algebraic topology (obstruction theory) fit into the framework of definable algebraic topology 
+My final postdoc was funded by the ERC grant [Definable Algebraic Topology](https://cordis.europa.eu/project/id/101077154), a subject developed [here](https://www.cambridge.org/core/journals/forum-of-mathematics-pi/article/definable-content-of-homological-invariants-ii-cech-cohomology-and-homotopy-classification/08866E8F4A968868D20EC207394AD091). My contribution was to show how a classical subject in algebraic topology (obstruction theory) fit into the framework of definable algebraic topology 
 
 *  Meadows, N. "Definable Obstruction Theory." *Arxiv preprint* [Link](https://arxiv.org/abs/2501.12888)
 
