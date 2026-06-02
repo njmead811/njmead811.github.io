@@ -47,4 +47,6 @@ My final postdoc was funded by the ERC grant [Definable Algebraic Topology](http
 
 ## Conference Papers
 
+Stock and Flow models are common tool in epidemiological modelling. This paper uses category theory to describe how stock and flow models can be composed together to form more complicated models.
+
 * X. Li, N. Meadows and N. Osgood *Hierarchical and Upstream-Downstream Composition of Stock and Flow Models* [Poster Presentation] ACT 2023, [Link](https://arxiv.org/pdf/2305.02136)
